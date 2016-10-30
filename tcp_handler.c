@@ -2,7 +2,7 @@
  * tcp_handler.c
  *
  *  Created on: Dec 8, 2015
- *      Author: Sanath
+ *      Author: Praveen
  */
 
 #include "tcp_handler.h"
